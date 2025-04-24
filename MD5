@@ -1,4 +1,4 @@
-b194d99290893048ba36ec306f57e3a9 *DESCRIPTION
+c3a069438c5c0e6fe7f84525fc0267b7 *DESCRIPTION
 defcf86a45ac0f2cdad0a268044b0fc1 *LICENSE
 4444e9c842ca1a9dd523076855727666 *NAMESPACE
 138746ecb54b8dfb9e80c74542d1cf85 *R/HelperFunctions.R
@@ -89,7 +89,7 @@ af601756aae75ae71c8c1c61e4b92101 *man/weibull_family.Rd
 aafc2a5c70016b6dde7e17f1f6090017 *src/cpp_functions.cpp
 d926fb4b620be6423b2b2569fe79fe10 *tests/spelling.R
 a94b41d185c675b9c22d5a34fbf123ab *tests/testthat.R
-b7da2cfc895ecbb331362ef0b1381afe *tests/testthat/test-advanced.R
+a3b4393859b231a1930d215e44c0427c *tests/testthat/test-advanced.R
 6086a4a72627c329124b0ec8c28fe116 *tests/testthat/test-fitting.R
 ec04237719e38074241c27a2fff6459a *tests/testthat/test-glm-sqp.R
 42e955e15c6240014796b06f4c7e1f0a *tests/testthat/test-methods.R
